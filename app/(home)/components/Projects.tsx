@@ -32,7 +32,7 @@ export default function Projects() {
         {
             title: "Portfolio",
             tech: [SiJavascript, SiNextdotjs, SiTailwindcss],
-            Link: "https://localhost:3000",
+            Link: "https://karanpawar.netlify.app/",
             cover: "/Portfolio.png",
             background: "bg-violet-400",
         },

@@ -6,7 +6,7 @@ import { ThemeProvider } from "@/components/theme-provider";
 const space_Grotesk = Space_Grotesk({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://localhost:3000"),
+  metadataBase: new URL("https://karanpawar.netlify.app/"),
 
   title: {
     template: "%s | KaranPawar",
@@ -26,9 +26,9 @@ export const metadata: Metadata = {
     title: "KaranPawar",
     description:
       "Crafting captivating web applications in Bhopal, I merge creativity with technology to deliver seamless user experiences. Let's collaborate to build something remarkable..",
-    url: "https://localhost:3000",
+    url: "https://karanpawar.netlify.app/",
     siteName: "KaranPawar",
-    images: "/og.png",
+    images: "/portfolio.png",
     type: "website"
   },
   keywords: ["PortFolio", "KaranPawar", "personalweb"],
